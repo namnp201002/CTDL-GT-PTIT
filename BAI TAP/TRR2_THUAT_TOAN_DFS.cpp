@@ -52,5 +52,5 @@ int main()
             cin >> arr[i][j];
     }
     // DfsNx(1, arr, N);
-    DfsDequy(1, N, arr);
+    DfsNx(3, arr, N);
 }
